@@ -21,3 +21,4 @@ Without a valid endpoint configured, the site clearly reports that message deliv
 
 The current systems lab is explicitly presented as architecture explorations, not shipped project work. Add real case studies to the typed `projectCaseStudies` collection in `src/data/content.ts` when their details are ready to share.
 # portfolio-2.0
+# portfolio-2.0
